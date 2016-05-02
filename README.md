@@ -23,6 +23,10 @@ $ badge-up --help
     $ badge-up npm v1.0.0 "#007EC6"
 ```
 
+This will create a file named "<field1>-<field2>.svg", (e.g. npm-v1.0.0.svg).
+
+For more information on usage, see [badge-up](https://www.npmjs.com/package/badge-up).
+
 ## Related
 
 - [badge-up](https://www.npmjs.com/package/badge-up) - API for this module
