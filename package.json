@@ -1,0 +1,26 @@
+{
+  "name": "badge-up-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "badge-up": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "badge"
+  ],
+  "author": "Benjamim Sonntag <benjamimsonntag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "badge-up": "^2.0.1",
+    "meow": "^3.7.0"
+  }
+}
