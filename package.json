@@ -1,7 +1,7 @@
 {
   "name": "badge-up-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Create badges from the terminal.",
   "main": "index.js",
   "scripts": {
   },
