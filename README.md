@@ -1,6 +1,9 @@
 # badge-up-cli
 
-Create badges from the terminal, using [badge-up](https://www.npmjs.com/package/badge-up).
+[![npm](https://img.shields.io/npm/v/badge-up-cli.svg?maxAge=2592000)](https://www.npmjs.com/package/badge-up-cli)
+[![downloads](https://img.shields.io/npm/dt/badge-up-cli.svg?maxAge=2592000)](https://www.npmjs.com/package/badge-up-cli)
+
+Create badges from the terminal.
 
 ## Install
 
