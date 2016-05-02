@@ -18,6 +18,7 @@
     "badge"
   ],
   "author": "Benjamim Sonntag <benjamimsonntag@gmail.com>",
+  "repository": "bsonntag/badge-up-cli",
   "license": "MIT",
   "dependencies": {
     "badge-up": "^2.0.1",
